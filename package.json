@@ -1,0 +1,11 @@
+{
+	"name": "browser-util",
+	"version": "1.0.4",
+	"description": "Utility to start browser with given URL.",
+	"author": "Bartosz Kaczorek",
+	"main": "./lib/browserUtil",
+	"private": true,
+	"dependencies": {
+		"log4js": "^0.6.26"
+	}
+}
